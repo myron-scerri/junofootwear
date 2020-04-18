@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  padding: 40px 150px;
+  font: 20px Helvetica, sans-serif;
+  color: #333;
+}
+.group {
+  padding: 50px;
+}
+@media screen and (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+  .group {
+    padding: 10px;
+  }
+}
+article {
+  display: block;
+  text-align: left;
+  margin: 0 auto;
+}
+
+img.map {
+  max-height: 333px;
+}
+
+.content p {
+  padding-top: 15px;
+}

@@ -1,2 +1,0 @@
-# junofootwear
-Created with CodeSandbox
